@@ -1,0 +1,23 @@
+{
+  "name": "@drycode/library",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drajvon/library.git"
+  },
+  "author": "drycode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drajvon/library/issues"
+  },
+  "homepage": "https://github.com/Drajvon/library#readme",
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
+}
